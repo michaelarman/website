@@ -1,5 +1,5 @@
 Created my own website using a template from colorlib.
-Website: michaelarman.com
+Website: www.michaelarman.com
 
 For more awesome templates please visit https://colorlib.com/wp/templates/
 
