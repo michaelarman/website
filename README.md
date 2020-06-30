@@ -1,4 +1,4 @@
-Thank you for using our template!
+Created my own website using a template from colorlib.
 
 For more awesome templates please visit https://colorlib.com/wp/templates/
 
